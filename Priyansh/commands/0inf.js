@@ -24,7 +24,7 @@ const time = process.uptime(),
 const moment = require("moment-timezone");
 var juswa = moment.tz("Asia/Kolkata").format("『D/MM/YYYY』 【HH:mm:ss】");
 var link =                                     
-["https://www.canva.com/design/DAG9pWgzw"];
+["https://www.canva.com/design/DAG9pa-1OyU/IPodnxwG3gtaYiNd6l-4kA/edit?utm_content=DAG9pa-1OyU&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton"];
 var callback = () => api.sendMessage({body:`🌹𝙰𝙳𝙼𝙸𝙽 𝙰𝙽𝙳 𝙱𝙾𝚃 𝙸𝙽𝙵𝙾𝚁𝙼𝙰𝚃𝙸𝙾𝙽 🇮🇳 
 
 
